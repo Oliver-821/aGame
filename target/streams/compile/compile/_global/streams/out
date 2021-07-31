@@ -1,4 +1,16 @@
-[0m[[0m[31merror[0m] [0m[0mD:\data\ITteamproject\ITSD-DT2021-Template -our group\app\cardAbilities\PurebladeEnforcer.java:43:1: 找不到符号[0m
-[0m[[0m[31merror[0m] [0m[0m  符号:   方法 setPurebladeEnforcerOnBoard(boolean)[0m
-[0m[[0m[31merror[0m] [0m[0m  位置: 类型为structures.GameState的变量 gameState[0m
-[0m[[0m[31merror[0m] [0m[0mgameState.setPurebladeEnforcerOnBoard[0m
+[0m[[0m[31merror[0m] [0m[0mD:\data\ITteamproject\a card game\app\commands\CheckMessageIsNotNullOnTell.java:3:1: 程序包org.junit不存在[0m
+[0m[[0m[31merror[0m] [0m[0morg.junit.Assert[0m
+[0m[[0m[31merror[0m] [0m[0mD:\data\ITteamproject\a card game\app\commands\CheckMessageIsNotNullOnTell.java:3:1: 仅从类和接口静态导入[0m
+[0m[[0m[31merror[0m] [0m[0mimport static org.junit.Assert.assertNotNull;[0m
+[0m[[0m[31merror[0m] [0m[0mD:\data\ITteamproject\a card game\app\cardAbilities\IroncliffGuardian.java:23:1: 找不到符号[0m
+[0m[[0m[31merror[0m] [0m[0m  符号:   方法 setName(java.lang.String)[0m
+[0m[[0m[31merror[0m] [0m[0m  位置: 类型为structures.BetterUnit的变量 betterUnit[0m
+[0m[[0m[31merror[0m] [0m[0mbetterUnit.setName[0m
+[0m[[0m[31merror[0m] [0m[0mD:\data\ITteamproject\a card game\app\cardAbilities\SilverguardKnight.java:25:1: 找不到符号[0m
+[0m[[0m[31merror[0m] [0m[0m  符号:   方法 setName(java.lang.String)[0m
+[0m[[0m[31merror[0m] [0m[0m  位置: 类型为structures.BetterUnit的变量 betterUnit[0m
+[0m[[0m[31merror[0m] [0m[0mbetterUnit.setName[0m
+[0m[[0m[31merror[0m] [0m[0mD:\data\ITteamproject\a card game\app\commands\CheckMessageIsNotNullOnTell.java:11:1: 找不到符号[0m
+[0m[[0m[31merror[0m] [0m[0m  符号:   方法 assertNotNull(com.fasterxml.jackson.databind.node.ObjectNode)[0m
+[0m[[0m[31merror[0m] [0m[0m  位置: 类 commands.CheckMessageIsNotNullOnTell[0m
+[0m[[0m[31merror[0m] [0m[0massertNotNull[0m

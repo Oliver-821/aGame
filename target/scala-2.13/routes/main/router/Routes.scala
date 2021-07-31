@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:D:/data/ITteamproject/ITSD-DT2021-Template -our group/conf/routes
-// @DATE:Sat Jul 03 19:17:02 BST 2021
+// @SOURCE:D:/data/ITteamproject/a card game/conf/routes
+// @DATE:Sat Jul 31 23:54:55 BST 2021
 
 package router
 
